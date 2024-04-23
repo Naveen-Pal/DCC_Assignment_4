@@ -38,3 +38,9 @@ sudo systemctl apache2 start
 ```
 
 Below are some screenshots:
+<br>
+![dcc_1](https://github.com/Naveen-Pal/DCC_Assignment_4/assets/136141222/5a84c0b0-e033-41ea-89d3-2c3cdfe6351f)
+![dcc_2](https://github.com/Naveen-Pal/DCC_Assignment_4/assets/136141222/17c21584-174c-4bd8-8f36-d1efede4379d)
+![dcc_3](https://github.com/Naveen-Pal/DCC_Assignment_4/assets/136141222/578366e3-5a8a-44dc-9765-9ce219269740)
+![dcc_4](https://github.com/Naveen-Pal/DCC_Assignment_4/assets/136141222/fc0ae4c8-fef3-4c55-ad4b-ac2763f11a2d)
+
